@@ -16,7 +16,7 @@ The codebase is built with Next.js App Router and organized into small reusable 
 
 ## Live Preview
 
-Add your deployed URL here when it is ready.
+portfoliodemo.mobincodes.com
 
 ## Repository
 

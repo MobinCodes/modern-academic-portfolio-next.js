@@ -6,7 +6,7 @@
 [![مخزن گیت‌هاب](https://img.shields.io/badge/GitHub-mobindeimekar%2Fmodern--academic--portfolio--next.js-111827?style=for-the-badge)](https://github.com/mobindeimekar/modern-academic-portfolio-next.js)
 [![English README](https://img.shields.io/badge/README-English-0f766e?style=for-the-badge)](./README.md)
 
-![نمای بخش هیرو](./public/images/drShot.png)
+![نمای بخش هیرو](./public/images/readme/hero-section.png)
 
 ## معرفی
 
@@ -16,7 +16,7 @@
 
 ## پیش‌نمایش آنلاین
 
-لینک دیپلوی‌شده را اینجا قرار دهید.
+portfoliodemo.mobincodes.com
 
 ## مخزن
 
